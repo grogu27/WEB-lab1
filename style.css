@@ -1,0 +1,68 @@
+.title {
+    color: black;
+    text-align: center;
+    margin: 0 auto;
+}
+
+.group {
+    text-align: left;
+    font-size: large;
+}
+
+.brigada {
+    text-align: right;
+    color: black;
+    font-size: large;
+}
+
+.familia1 {
+    text-align: right;
+    line-height: 0.1;
+    font-size: large;
+}
+
+.familia2 {
+    text-align: right;
+    line-height: 0.1;
+    font-size: large;
+}
+
+.author {
+    text-align: right;
+}
+
+.text_part1 {
+   margin-left: 500px;
+   font-size: large;
+}
+
+.part_3{
+    background-color: rgb(177, 175, 175);
+    height: 425px;
+    width: 650px;
+    margin: 0 auto;
+}
+.title1 {
+    text-align: center;
+    font-size: xx-large;
+    color:blue;
+    text-shadow: 2px 2px 1px black;
+    margin-bottom: 10px;
+    font-family: Arial;
+}
+.text {
+    background-color: white;
+    margin: 0 2em 0 5em;
+    width: 490px;
+    font-size: large;
+    border-right: 5px double blue;
+    text-indent: 40px;
+    padding-left: 30px;
+    padding-right: 1px;
+    line-height: 1.5; 
+}
+
+.part_2{
+    font-size: large;
+}
+
