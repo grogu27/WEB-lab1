@@ -49,6 +49,7 @@
     text-shadow: 2px 2px 1px black;
     margin-bottom: 10px;
     font-family: Arial;
+    margin-left: 60px;
 }
 .text {
     background-color: white;
@@ -58,7 +59,7 @@
     border-right: 5px double blue;
     text-indent: 40px;
     padding-left: 30px;
-    padding-right: 1px;
+    padding-right: 10px;
     line-height: 1.5; 
 }
 
